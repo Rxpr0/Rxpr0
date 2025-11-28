@@ -23,47 +23,56 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects - Showcase 
 
 I build things that solve real problems — from enterprise audit systems to mobile internship matchmakers and live sports platforms.  
 Below are some highlights.
 
----
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Rxpr0/Rxpr0/blob/main/internconnect-roles.jpeg">
+        <img src="https://github.com/Rxpr0/Rxpr0/blob/main/internconnect-home.jpeg?raw=true"
+             alt="InternConnect – Internship Mobile App"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>InternConnect</b><br/>
+      <sub>Cross-platform internship app with real-time alerts & secure auth.</sub><br/>
+      🔗 <a href="https://github.com/Rxpr0/Rxpr0/blob/main/internconnect-roles.jpeg">Repo</a>
+      <br/>
+      <sub>Tags: React Native, TypeScript, Supabase</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Rxpr0/Rxpr0/blob/main/Football-live.jpeg">
+        <img src="https://github.com/Rxpr0/Rxpr0/blob/main/Football-live.jpeg?raw=true"
+             alt="Football Matches Broadcast Platform"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Football Broadcast Platform</b><br/>
+      <sub>Dynamic web platform for live football match streaming & schedules.</sub><br/>
+      🔗 <a href="https://github.com/Rxpr0/Rxpr0/blob/main/Football-live.jpeg">Repo</a>
+      <br/>
+      <sub>Tags: JavaScript, HTML, CSS, jQuery</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Rxpr0/Rxpr0/blob/main/PhoneFury.jpeg">
+        <img src="https://github.com/Rxpr0/Rxpr0/blob/main/PhoneFury.jpeg?raw=true"
+             alt="Phone Shopping Website"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Phone Shopping Website</b><br/>
+      <sub>Full-stack responsive e-commerce site optimized for mobile users.</sub><br/>
+      🔗 <a href="https://github.com/Rxpr0/Rxpr0/blob/main/PhoneFury.jpeg">Repo</a>
+      <br/>
+      <sub>Tags: ASP.NET Core, C#, SQL, JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
-#### 📱 **InternConnect – Cross-Platform Internship App**  
-*React Native • TypeScript • Supabase • Real-Time Alerts*
-
-> A mobile app that connects students with internships using real-time tracking, secure authentication, and smart matching — built with React Native and Supabase.
-
- [Source Code](#)
-
----
-
-#### ⚽ **Football Matches Broadcast Platform**  
-*JavaScript • HTML • CSS • jQuery*
-
-> A dynamic web platform to stream and display live football match schedules and updates, built with vanilla frontend stack and smooth jQuery interactions.
-
- [Code](#)
-
----
-
-#### 📱🛒 **Phone Shopping Website**  
-*ASP.NET Core • C# • SQL Server • JavaScript*
-
-> A full-stack responsive e-commerce site optimized for mobile users, featuring product listings, cart logic, and seamless UI/UX — powered by ASP.NET and SQL.
-
- [GitHub Repo](#)
-
----
-
-#### 🏗️ **Quality Audit System for Construction Pillars Co.**  
-*ERPNext • JavaScript • HTML • CSS • Jinja • Multi-Stage Approval Workflows*
-
-> Automated 60% of internal quality audits using 5 custom doctypes, dynamic field logic, and 4-stage approval workflows — now used daily by the QA team.
-
- [Code Snippet](#)
-
+ 
 ---
 
 
