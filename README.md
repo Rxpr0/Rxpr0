@@ -1,4 +1,4 @@
-<h2> Hesham Alkatout</h2>
+<h1> Hesham Alkatout</h1>
 <h3>Full-Stack Developer | ERPNext Customizer | Freelance Web Developer @<a href="https://maroonfrog.com" target="_blank">MaroonFrog</a></h3>
 🌍 <strong>Based in</strong>: Khobar, Saudi Arabia  
 
@@ -84,5 +84,5 @@ Below are some highlights.
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a> &nbsp;
 <a href="mailto:alkatout99@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" /> <br>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
 </a>
