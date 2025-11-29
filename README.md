@@ -48,7 +48,7 @@ Below are some highlights.
       <br/>
       <b>Football Broadcast Platform</b><br/>
       <sub>Dynamic web platform for live football match streaming & schedules.</sub><br/>
-      🔗 <a href="https://github.com/Rxpr0/Rxpr0/blob/main/Football-live.jpeg">Repo</a>
+      🔗 <a href="https://github.com/Rxpr0/Football-Live-Broadcast">Repo</a>
       <br/>
       <sub>Tags: JavaScript, HTML, CSS, jQuery</sub>
     </td>
