@@ -35,7 +35,7 @@ Below are some highlights.
       <br/>
       <b>InternConnect</b><br/>
       <sub>Cross-platform internship app with real-time alerts & secure auth.</sub><br/>
-      🔗 <a href="https://github.com/Rxpr0/Rxpr0/blob/main/internconnect-roles.jpeg">Repo</a>
+      🔗 <a href="https://github.com/Rxpr0/InternConnect-App">Repo</a>
       <br/>
       <sub>Tags: React Native, TypeScript, Supabase</sub>
     </td>
@@ -61,7 +61,7 @@ Below are some highlights.
       <br/>
       <b>Phone Shopping Website</b><br/>
       <sub>Full-stack responsive e-commerce site optimized for mobile users.</sub><br/>
-      🔗 <a href="https://github.com/Rxpr0/Rxpr0/blob/main/PhoneFury.jpeg">Repo</a>
+      🔗 <a href="https://github.com/Rxpr0/PhoneFury-Ecommerce-">Repo</a>
       <br/>
       <sub>Tags: ASP.NET Core, C#, SQL, JavaScript</sub>
     </td>
