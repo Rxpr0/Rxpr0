@@ -68,8 +68,34 @@ Below are some highlights.
   </tr>
 </table>
 
-
  ---
+
+## 💻 Coursework
+
+| 📘 Course | 📄 Description |
+|----------|----------------|
+| **Computer Science I** | Intro to programming fundamentals using Java and problem-solving techniques. |
+| **Computer Science II** | Object-oriented programming, file I/O, and foundational software design principles. |
+| **Data Structures** | Implementation and analysis of lists, stacks, queues, trees, graphs, and hash tables. |
+| **Web Programming** | Building websites with HTML, CSS, JavaScript, JQuery and basic client-server concepts. |
+| **Discrete Structures & Combinatorial Analysis** | Logic, set theory, combinatorics, and mathematical reasoning for algorithms. |
+| **Database I** | Relational database design, SQL queries, normalization, and data modeling. |
+| **Database II** | Advanced DB admin, query optimization, transactions, and indexing strategies. |
+| **Principles of Software Engineering** | SDLC, UML modeling, requirements gathering, testing, and teamwork. |
+| **Computer Networks** | TCP/IP, HTTP, DNS, security fundamentals, network architecture & protocols. |
+| **Algorithms I** | Algorithm design, Big-O analysis, recursion, sorting, graph traversal. |
+| **Systems Programming** | Unix/Linux & Python programming, memory management, OS interaction. |
+| **Operating Systems** | Processes, threads, concurrency, scheduling, and resource allocation. |
+| **Programming Languages** | Comparative study of paradigms: functional, logic, OOP, type systems. |
+| **Artificial Intelligence** | Search algorithms, knowledge representation, agent design, reasoning. |
+| **Theory of Computation** | Automata, formal languages, Turing machines, decidability, complexity. |
+| **Cryptography** | Encryption, digital signatures, hash functions, secure communication. |
+| **E-Commerce** | Secure online stores, payments, sessions, and transaction workflows. |
+| **Mathematical Reasoning & Algorithmic Thinking** | Proofs, induction, discrete math for problem-solving. |
+| **Professional Ethics in Computing** | Ethics, privacy, IP laws, and responsible development. |
+
+
+---
 
 ## 📊 Stats
 
