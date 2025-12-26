@@ -1,5 +1,5 @@
 <h1> Hesham Alkatout</h1>
-<h3>Full-Stack Developer | ERPNext Customizer | Freelance Web Developer @<a href="https://maroonfrog.com" target="_blank">MaroonFrog</a></h3>
+<h3>Full-Stack Developer | ERPNext Customizer | Cyber Security Enthusiast</h3>
 🌍 <strong>Based in</strong>: Khobar, Saudi Arabia  
 
 ---
@@ -94,12 +94,6 @@ Below are some highlights.
 | **Mathematical Reasoning & Algorithmic Thinking** | Proofs, induction, discrete math for problem-solving. |
 | **Professional Ethics in Computing** | Ethics, privacy, IP laws, and responsible development. |
 
-
----
-
-## 📊 Stats
-
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxpr0&show_icons=true&bg_color=0d1116&title_color=550000&text_color=a4aacb&icon_color=012b09)
 
 ---
 
