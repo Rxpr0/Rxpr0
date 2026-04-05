@@ -42,8 +42,7 @@
 
 ### 🚀 Projects - Showcase 
 
-I build things that solve real problems — from enterprise audit systems to mobile internship matchmakers and live sports platforms.  
-Below are some highlights.
+I build things that solve real problems — Below are some highlights.
 
 <table>
   <tr>
@@ -85,6 +84,49 @@ Below are some highlights.
       🔗 <a href="https://github.com/Rxpr0/PhoneFury-Ecommerce-">Repo</a>
       <br/>
       <sub>Tags: ASP.NET Core, C#, SQL, JavaScript</sub>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Rxpr0/Echo-Realm/blob/main/ChatScreen.jpeg">
+        <img src="https://github.com/Rxpr0/Echo-Realm/blob/main/ChatScreen.jpeg?raw=true"
+             alt="Echo Realm – Chat App"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Echo Realm</b><br/>
+      <sub>A modern Flutter mobile application for real-time community chatting.</sub><br/>
+      🔗 <a href="https://github.com/Rxpr0/Echo-Realm">Repo</a>
+      <br/>
+      <sub>Tags: Flutter, Dart, C++, Firebase</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Rxpr0/Expense_Tracker/blob/main/DarkTracker.jpeg">
+        <img src="https://github.com/Rxpr0/Expense_Tracker/blob/main/DarkTracker.jpeg?raw=true"
+             alt="Expense Tracker - Flutter App"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Expense Tracker</b><br/>
+      <sub>Mobile application that helps users track, manage, and visualize their daily expenses.</sub><br/>
+      🔗 <a href="https://github.com/Rxpr0/Expense_Tracker">Repo</a>
+      <br/>
+      <sub>Tags: Flutter, Dart, C++, HTML</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Rxpr0/Roll_Dice-App/blob/main/AfterRolling.jpeg">
+        <img src="https://github.com/Rxpr0/Roll_Dice-App/blob/main/AfterRolling.jpeg?raw=true"
+             alt="Dice Roller"
+             style="width:100%; height:300px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>DIce Roller</b><br/>
+      <sub>Application that simulates rolling a dice with real-time UI updates.</sub><br/>
+      🔗 <a href="https://github.com/Rxpr0/Roll_Dice-App">Repo</a>
+      <br/>
+      <sub>Tags:Flutter, Dart, C++, HTML, Swift</sub>
     </td>
   </tr>
 </table>
